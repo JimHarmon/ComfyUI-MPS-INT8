@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-mps-int8"
+version = "0.1.0"
+description = "Native MPS INT8 linear backend for ComfyUI and comfy-kitchen"
+requires-python = ">=3.11"
+license = "MIT"
+
+[tool.ruff]
+line-length = 100
